@@ -1,8 +1,8 @@
 # Explore-Weather-Trends
 In this project, we had to analyze local and global temperature data and compare the temperature trends where you live to overall global temperature trends.
 #### What Software Do I need?
-*SQL 
-*Excel
+* SQL 
+* Excel
 
 #### Steps:
 1. Extract the data from the database using SQL.
